@@ -1,0 +1,45 @@
+//Billetes de 500 euros
+500
+1
+//Billetes de 200 euros
+200
+2
+//Billetes de 100 euros
+100
+4
+//Billetes de 50 euros
+50
+2
+//Billetes de 20 euros
+20
+3
+//Billetes de 10 euros
+10
+4
+//Billetes de 5 euros
+5
+2
+//Monedas de 2 euros
+2
+2
+//Monedas de 1 euros
+1
+4
+//Monedas de 0,50 euros
+0.5
+3
+//Monedas de 0,20 euros
+0.2
+0
+//Monedas de 0,10 euros
+0.1
+4
+//Monedas de 0,05 euros
+0.05
+2
+//Monedas de 0,02 euros
+0.02
+0
+//Monedas de 0,01 euros
+0.01
+3
