@@ -7,7 +7,7 @@ package monedas;
 
 /**
  *
- * @author TOSHIBA
+ * @author jaime
  */
 public class Back {
     
